@@ -14,7 +14,7 @@ const Portfolio = () => {
         {
             id: 2,
             src: movieo,
-            demo:'movieproject-lake.vercel.app',
+            demo:'https://movieproject-lake.vercel.app/',
             code:'https://github.com/BisaVenugopal/MovieAppProject'
         },
         {
